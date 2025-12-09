@@ -2,7 +2,7 @@
 
 ## What's included?
 
-This portfolio is composed of the following data analysis projects:
-- Bike Sales Project (Excel)
-- County Sales Project (Excel)
-- Retail Sales Project (Excel)
+This portfolio is composed of data analysis projects on the following:
+- Bike Sales (Excel)
+- County Sales (Excel)
+- Retail Sales (Excel)
