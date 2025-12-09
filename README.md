@@ -3,6 +3,17 @@
 ## What's included?
 
 This portfolio is composed of data analysis projects on the following:
-- Bike Sales (Excel)
-- County Sales (Excel)
-- Retail Sales (Excel)
+### Excel
+- Bike Sales
+- County Sales
+- Retail Sales
+
+### Tableau
+- EMSI (Economic Modeling Specialists International) Job Change UK
+- Spotify
+
+### SQL
+- World Data
+
+### Python
+- Student Marks
